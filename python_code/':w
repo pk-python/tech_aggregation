@@ -1,0 +1,8 @@
+# Pure python codebase
+
+##### Sample python run command
+
+```bash
+python3 script_name.py -h
+```
+- After running above help command you will see some attributes which is 
